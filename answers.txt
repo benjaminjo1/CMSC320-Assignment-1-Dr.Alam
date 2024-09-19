@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: Data science can be applied to the sports field. An example can be professional basketball. Data science can be used to analize player shooting percentage, defensive ability, and overall impact by using many metrics and datapoints that are gathered in the sport of basketball. This can be helpful for coaches when making coaching decisions during the game or when trying to assemble an effective roster. 
