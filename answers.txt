@@ -1,3 +1,7 @@
 Q1: Why might be consider using git?
 
 Answer: Git is a wonderful tool to use when working in groups. Each person will be able to access the same code and work on it on their own. The changes will not take into effect until you manually add and commit the changes. 
+
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: Data science can be applied to the sports field. An example can be professional basketball. Data science can be used to analize player shooting percentage, defensive ability, and overall impact by using many metrics and datapoints that are gathered in the sport of basketball. This can be helpful for coaches when making coaching decisions during the game or when trying to assemble an effective roster. 
