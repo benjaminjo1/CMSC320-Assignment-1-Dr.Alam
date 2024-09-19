@@ -9,3 +9,7 @@ Answer: Data science can be applied to the sports field. An example can be profe
 Q3: What is the difference between merging and rebasing?
 
 Answer: In git, merging takes changes from one branch and integrates it into another branch. Rebasing allows you to update the start of your branch to a later commit that happened after you branched out.
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: I hope to improve on my Python coding skills, Git skills, and overall knowlegde of data science what its practical uses in the real world. I would also specifically like to learn how to use git efficiently and usefully outside of the classroom. 
